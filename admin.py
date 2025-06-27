@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import joblib
 from datetime import datetime
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 from sklearn.feature_extraction.text import TfidfVectorizer
