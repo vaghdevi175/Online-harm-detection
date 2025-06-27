@@ -9,7 +9,7 @@ This repository contains two Streamlit apps:
 
 ## 🧠 ML Model
 
-- Model: Logistic Regression with TF-IDF
+- Model: Ensemble Learning(Logistic regression + Random Forest) with TF-IDF
 - Files:
   - `toxic_comment_model.pkl`: Trained model
   - `tfidf_vectorizer.pkl`: Vectorizer
